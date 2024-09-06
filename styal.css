@@ -1266,6 +1266,14 @@
         font-size: 13px;
         text-indent: -1.9rem;
     }
+    .container3 .paradiv-cont3 {
+        
+        height: 70vh;
+    }
+    .navbar button {
+        width: 17vw;
+        font-size: 12px;
+    }
 }
 
 
